@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Echo Hub</string>
+    <string name="add_file">Upload files</string>
+    <string name="choose_file">Choose File</string>
+    <string name="upload">Upload</string>
+    <string name="enter_download_limit_0_for_unlimited">Enter download limit (0 for unlimited)</string>
+    <string name="anonymous_upload">Anonymous upload</string>
+    <string name="enter_file_name">Enter file name</string>
+</resources>
